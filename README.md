@@ -17,7 +17,7 @@ _还**可**以_
     2. 原来是这样
 
 可以秀一个图片吗（去掉减号）
-!-[logo](/logo.jpg)
+![logo](/logo.jpg)
 
 这样就可以添加超链接了 卧槽这也太强了
 [github](http://github.com)
